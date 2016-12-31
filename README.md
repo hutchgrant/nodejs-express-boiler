@@ -39,7 +39,7 @@ nodejs-express-boiler is available under the [MIT License](https://github.com/hu
 
 ## Contributing
 
-All contributions will be placed under the same Apache 2.0 license, contributers must agree to that license.
+All contributions will be placed under the same MIT license, contributers must agree to that license.
 For more information see [contributing](https://github.com/hutchgrant/nodejs-express-boiler/blob/master/CONTRIBUTING.md).
 
 ## Creator
